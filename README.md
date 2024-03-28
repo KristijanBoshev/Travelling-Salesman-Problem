@@ -12,6 +12,6 @@ This project implements a solution to the Traveling Salesman Problem (TSP) using
 - Numpy
 
 ## Usage
-1. Clone this repository to your local machine.
-2. Install the required dependencies using pip: ``` pip install numpy ```
+1. Clone this repository to your local machine: `git clone https://github.com/KristijanBoshev/Travelling-Salesman-Problem.git`
+2. If necessary, Install the required dependencies using pip: ``` pip install numpy ```
 3. Run the `tsp_aco.py` script
